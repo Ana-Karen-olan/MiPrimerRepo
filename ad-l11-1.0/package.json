@@ -1,0 +1,17 @@
+{
+  "name": "ad-20-1-assessment-individual",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ad-20-1-assessment-individual": "file:"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
